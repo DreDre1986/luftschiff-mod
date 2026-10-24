@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "luftschiff",
+	"version": "${version}",
+	"name": "Luftschiff",
+	"description": "Baue eigene Luftschiffe aus Ballon, Propeller und Steuerpult.",
+	"authors": ["dre86"],
+	"license": "MIT",
+	"icon": "assets/luftschiff/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["de.luftschiff.LuftschiffMod"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "luftschiff:block/helm_block"
+	}
+}
